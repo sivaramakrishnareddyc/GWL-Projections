@@ -2,7 +2,10 @@
 
 Code for GWL projections
 
- Sivarama Krishna Reddy Chidepudi, Nicolas Massei, Abderrahim Jardani, et al. Groundwater level projections for aquifers affected by annual to decadal hydroclimate variations. ESS Open Archive . September 02, 2024.
+
+Published version: Chidepudi, S. K. R., Massei, N., Jardani, A., Henriot, A., Fournier, M., & Dieppois, B. (2025). Groundwater Level Projections for Aquifers Affected by Annual to Decadal Hydroclimate Variations: Example of Northern France. Earth's Future, 13(5), e2024EF005251. https://doi.org/10.1029/2024EF005251
+
+ Preprint: Sivarama Krishna Reddy Chidepudi, Nicolas Massei, Abderrahim Jardani, et al. Groundwater level projections for aquifers affected by annual to decadal hydroclimate variations. ESS Open Archive . September 02, 2024.
 DOI: 10.22541/essoar.172526712.23981307/v1
 
 **Climate data processing**.
